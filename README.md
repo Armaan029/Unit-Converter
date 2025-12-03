@@ -19,3 +19,4 @@ A command-line tool for converting engineering units like length (m↔cm↔mm), 
 
 ### Installation
 1. Clone the repo
+2. Run the application
